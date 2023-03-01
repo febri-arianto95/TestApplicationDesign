@@ -11,4 +11,4 @@ PT. XYZ adalah sebuah perusahaan fintech yang ingin mengembangkan mobile apps me
 •	User tidak dapat melakukan peminjaman uang jika sedang ada proses peminjaman dan belum di lunaskan.
 
 ## ERD
-![alt text](https://github.com/febri-arianto95/TestApplicationDesign/design/ERDDiagram.png
+![alt text](https://github.com/febri-arianto95/TestApplicationDesign/main/design/ERDDiagram.png
