@@ -23,4 +23,5 @@ PT. XYZ adalah sebuah perusahaan fintech yang ingin mengembangkan mobile apps me
 
 ## UI/UX Mock Design Figma
 ![](https://github.com/febri-arianto95/TestApplicationDesign/blob/main/design/FigmaMockDesign.png)
-[Direct Link To Figma Design](https://www.figma.com/file/cf2iMG3NDF9cH1Ey67Hr5s/TestApplicationDesign?node-id=0%3A1&t=Js2pBl3kblFMdteY-1)
+-   [Direct Link To Figma Design](https://www.figma.com/file/cf2iMG3NDF9cH1Ey67Hr5s/TestApplicationDesign?node-id=0%3A1&t=Js2pBl3kblFMdteY-1)
+-   [Direct Link To Figma Design<embed>](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fcf2iMG3NDF9cH1Ey67Hr5s%2FTestApplicationDesign%3Fnode-id%3D0%253A1%26t%3DTyokp5vf5gI3lBep-1)
