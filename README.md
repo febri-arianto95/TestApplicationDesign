@@ -1,6 +1,6 @@
 # Test Assessment Application Design-Solution Analyst
 
-## Ilustration
+## Illustration
 PT. XYZ adalah sebuah perusahaan fintech yang ingin mengembangkan mobile apps mereka, dalam upaya menjangkau pengguna yang lebih luas mereka ingin mengembakan aplikasi pinjaman online.
 
 ## Potential High Level User Story:
